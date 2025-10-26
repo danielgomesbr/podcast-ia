@@ -25,6 +25,10 @@
 - Efeitos de áudio e vídeo criados no CapCut.
 - Redimensionamento da capa para o GitHub, feito no GIMP.
 
+## 📚 Prompts para realização desse projeto.
+- [🎙️ Para gwrar o roteito no ChatGpt](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
+- [📘 Para gwrar a capa feito no GEMINI e capa gerada no IDEOGRAM](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
+
 ## 🛠️ Quer ouvir ou ver o DevPah? Calma, vou te ajudar.
 
 [🔊 Clicando aqui você pode fazer o download do áudio.mp3 para ouvir.](https://github.com/danielgomesbr/podcast-ia/raw/refs/heads/main/output/2025-audio-devpah-elevenlabs.mp3)
