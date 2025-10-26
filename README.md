@@ -29,16 +29,17 @@
 <br>
 
 ## 📚 Prompts para realização desse projeto.
-- [🎙️ Para gerar o roteito no ChatGpt](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
-- [📘 Para gerar a capa feito no GEMINI e capa gerada no IDEOGRAM](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/gemini-ideogram.md)
+- 🎙️ Para gerar o roteito no [ChatGpt](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
+- 📘 Para gerar a capa feito no [GEMINI](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/gemini-ideogram.md)
+- 👀 Capa gerada no [IDEOGRAM](https://github.com/danielgomesbr/podcast-ia/blob/main/output/capa-podpah.png)
 <br>
 
 ## 🛠️ Quer ouvir ou ver o DevPah? Calma, vou te ajudar.
 
-[🔊 Clicando aqui você pode fazer o download do áudio.mp3 para ouvir.](https://github.com/danielgomesbr/podcast-ia/raw/refs/heads/main/output/2025-audio-devpah-elevenlabs.mp3)
+🔊 Clicando [aqui](https://github.com/danielgomesbr/podcast-ia/raw/refs/heads/main/output/2025-audio-devpah-elevenlabs.mp3) você pode fazer o download do áudio.mp3 para ouvir.
 <br>
-[🎞 Clicando aqui ou na imagem do PodPah acima, você já assiste o vídeo, com as edições.](https://youtu.be/UtZocpUGFcw)
-
+🎞 Clicando [aqui](https://youtu.be/UtZocpUGFcw) ou na imagem do [DevdPah](https://youtu.be/UtZocpUGFcw) acima, você já assiste o vídeo, com as edições.
+<br>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
