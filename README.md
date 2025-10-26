@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://youtu.be/wi132KeFvAU" target="_blank">
+  <a href="https://youtu.be/UtZocpUGFcw" target="_blank">
     <img src="https://github.com/user-attachments/assets/00ab8e8a-ed2a-4767-b2df-2adc79b736bd" alt="capa-podpah" width="largura_opcional" />
   </a>
 </p>
@@ -29,7 +29,7 @@
 
 [🔊 Clicando aqui você pode fazer o download do áudio.mp3 para ouvir.](https://github.com/danielgomesbr/podcast-ia/raw/refs/heads/main/output/2025-audio-devpah-elevenlabs.mp3)
 <br>
-[🎞 Clicando aqui ou na imagem do PodPah acima, você já assiste o vídeo, com as edições.](https://youtu.be/wi132KeFvAU)
+[🎞 Clicando aqui ou na imagem do PodPah acima, você já assiste o vídeo, com as edições.](https://youtu.be/UtZocpUGFcw)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
