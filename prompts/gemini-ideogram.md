@@ -1,17 +1,22 @@
-# 📚Prompt para gerar a capa, feito no GEMINI via buscador Google e usado no IDEOGRAM.AI
+# 📚Prompt para gerar a capa, feito no GEMINI via buscador Google e usado no IDEOGRAM.AI <br>
 
 Prompt principal:
-Crie uma capa de podcast vibrante e moderna para o YouTube com o tema "Tecnologia e Desenvolvimento com IA". O design deve ser visualmente impactante, 
-minimalista e focado no futuro, utilizando cores como azul elétrico, roxo, ciano e preto. O estilo deve ser um híbrido de estética cyberpunk e futurismo limpo.
+Crie uma capa de podcast vibrante e moderna para o YouTube com o tema "Tecnologia e Desenvolvimento com IA". <br>
+O design deve ser visualmente impactante, minimalista e focado no futuro, utilizando cores como azul elétrico, roxo, ciano e preto. <br>
+O estilo deve ser um híbrido de estética cyberpunk e futurismo limpo.
 
-Detalhes para a IA:
-Imagem central:
+Detalhes para a IA 
+<br>
+<br>
+Imagem central: 
+<br>
 Um robô estilizado,  com circuitos de computador e elementos de luz digital, emulando o processo de pensamento da IA, com um humano simbolizando a colaboração 
 entre humanos e IA.
 
 Um microfone estilo podcast em um ambiente digital futurista.
-
-Texto:
+<br>
+<br>
+Texto: <br>
 O título do podcast deve estar em uma fonte sans-serif, futurista e limpa, em branco ou ciano, para se destacar contra o fundo escuro.
 
 O nome do podcast será: "PodPah".
