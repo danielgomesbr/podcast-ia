@@ -1,18 +1,24 @@
 # 🗣️ DevPah - O podcast feito com IA 
-<br>
+> Projeto feito com IA, com o objetivo de aperfeiçoar o conhecimento.
 
-🎙️ Roteiro feito no ChatGpt - https://chatgpt.com/ <br>
-🔍Referências
-Prompt para gerar capa feito no GEMINI via buscador google - https://www.google.com/ <br>
-Capa feita no IDEOGRAM.AI - https://ideogram.ai/t/explore/ <br>
-Vídeo com avatar feito no HeyGen - https://app.heygen.com/home/ <br>
-Edição do vídeo feita no CapCut - https://www.capcut.com/pt-br/
-<br>
+## 💻 Tecnologias utilizadas no projeto
+- [ChatGpt](https://chatgpt.com/)
+- [GEMINI](https://www.google.com/)
+- [IDEOGRAM](https://ideogram.ai/t/explore/)
+- [HeyGen](https://app.heygen.com/home/)
+- [CapCut](https://www.capcut.com/pt-br/)
+- [GUIMP](https://www.gimp.org/downloads/)
+
+## ✨ Como foi feito ?
+- Roteiro gerado via ChatGpt
+- Prompt para gerar capa feito no GEMINI via buscador google
+- Capa feita no IDEOGRAM.AI
+- Edição de efeitos de áudio e vídeo feita no CapCut
+- Redimensionamento da capa para o GitHub feito no GUIMP
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 <br>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 <br>
 <br>
-[![capa-podpah](https://github.com/user-attachments/assets/4b7d5f1e-11cb-4cb0-b3e4-35cdbc2807eb)](https://youtu.be/TvKqhlE1G3Q)
-
-
+[![capa-podpah](https://github.com/user-attachments/assets/00ab8e8a-ed2a-4767-b2df-2adc79b736bd)](https://youtu.be/TvKqhlE1G3Q)
