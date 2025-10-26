@@ -25,7 +25,11 @@
 - Efeitos de áudio e vídeo criados no CapCut.
 - Redimensionamento da capa para o GitHub, feito no GIMP.
 
-## 🛠️ Quer ouvir ou ver? Vou te ajudar.
+## 🛠️ Quer ouvir ou ver o DevPah? Calma, vou te ajudar.
+
+[🚀 Clicando aqui você pode fazer o download do áudio.mp3 para ouvir.](https://github.com/danielgomesbr/podcast-ia/blob/main/output/2025-audio-devpah-elevenlabs.mp3)
+<br>
+[🚀 Aqui você já assiste o vídeo, com as edições.](https://youtu.be/wi132KeFvAU)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
