@@ -13,12 +13,12 @@
 - Roteiro gerado via ChatGpt
 - Prompt para gerar capa feito no GEMINI via buscador google
 - Capa feita no IDEOGRAM.AI
-- Edição de efeitos de áudio e vídeo feita no CapCut
+- Efeitos de áudio e vídeo feitos no CapCut
 - Redimensionamento da capa para o GitHub feito no GUIMP
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/danielgomesbr?tab=repositories)
 <br>
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 <br>
 <br>
-[![capa-podpah](https://github.com/user-attachments/assets/00ab8e8a-ed2a-4767-b2df-2adc79b736bd)](https://youtu.be/TvKqhlE1G3Q)
+[![capa-podpah](https://github.com/user-attachments/assets/00ab8e8a-ed2a-4767-b2df-2adc79b736bd)](https://youtu.be/wi132KeFvAU)
