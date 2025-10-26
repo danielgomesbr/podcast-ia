@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://youtu.be/UtZocpUGFcw" target="_blank">
-    <img src="https://github.com/user-attachments/assets/00ab8e8a-ed2a-4767-b2df-2adc79b736bd" alt="capa-podpah" width="largura_opcional" />
+    <img width="400" height="267" alt="capa-devpah" src="https://github.com/user-attachments/assets/3decea15-f970-4b5f-8b52-6d50a4b055d5" />
   </a>
 </p>
+
 
 # 🗣️ DevPah - O podcast feito com IA🛸
 > Projeto feito com IA, com o objetivo de aperfeiçoar o conhecimento.
