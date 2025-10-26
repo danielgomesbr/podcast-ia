@@ -6,6 +6,7 @@
 
 # 🗣️ DevPah - O podcast feito com IA🛸
 > Projeto feito com IA, com o objetivo de aperfeiçoar o conhecimento.
+> <br>
 
 ## 💻 Tecnologias utilizadas no projeto
   🔗 Links
@@ -16,6 +17,7 @@
 - [HeyGen](https://app.heygen.com/home/)
 - [CapCut](https://www.capcut.com/pt-br/)
 - [GIMP](https://www.gimp.org/downloads/)
+<br>
 
 ## ✨ Como foi feito ?
 - Roteiro gerado via ChatGpt.
@@ -24,10 +26,12 @@
 - Capa gerada no IDEOGRAM.AI.
 - Efeitos de áudio e vídeo criados no CapCut.
 - Redimensionamento da capa para o GitHub, feito no GIMP.
+<br>
 
 ## 📚 Prompts para realização desse projeto.
 - [🎙️ Para gwrar o roteito no ChatGpt](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
 - [📘 Para gwrar a capa feito no GEMINI e capa gerada no IDEOGRAM](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/gemini-ideogram.md)
+<br>
 
 ## 🛠️ Quer ouvir ou ver o DevPah? Calma, vou te ajudar.
 
