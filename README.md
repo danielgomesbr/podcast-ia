@@ -10,6 +10,6 @@ Edição do vídeo feita no CapCut - https://www.capcut.com/pt-br/
 <br>
 [![capa-podpah](https://github.com/user-attachments/assets/4b7d5f1e-11cb-4cb0-b3e4-35cdbc2807eb)](https://youtu.be/TvKqhlE1G3Q)
 
-<a href="https://youtu.be/TvKqhlE1G3Q" target="_blank">
+<a href="https://youtu.be/TvKqhlE1G3Q" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/4b7d5f1e-11cb-4cb0-b3e4-35cdbc2807eb" alt="Capa do podcast DevPah, feita com IA" />
 </a>
