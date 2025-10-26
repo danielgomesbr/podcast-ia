@@ -27,7 +27,7 @@
 
 ## 🛠️ Quer ouvir ou ver o DevPah? Calma, vou te ajudar.
 
-[🔊 Clicando aqui você pode fazer o download do áudio.mp3 para ouvir.](https://github.com/danielgomesbr/podcast-ia/blob/main/output/2025-audio-devpah-elevenlabs.rar)
+[🔊 Clicando aqui você pode fazer o download do áudio.mp3 para ouvir.](https://github.com/danielgomesbr/podcast-ia/raw/refs/heads/main/output/2025-audio-devpah-elevenlabs.mp3)
 <br>
 [🎞 Clicando aqui ou na imagem do PodPah acima, você já assiste o vídeo, com as edições.](https://youtu.be/wi132KeFvAU)
 
