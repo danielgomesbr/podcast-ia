@@ -39,7 +39,7 @@
 
 🔊 Clicando [aqui](https://github.com/danielgomesbr/podcast-ia/raw/refs/heads/main/output/2025-audio-devpah-elevenlabs.mp3) você pode fazer o download do áudio.mp3 para ouvir.
 <br>
-🎞 Clicando [aqui](https://youtu.be/UtZocpUGFcw) ou na imagem do [DevdPah](https://youtu.be/UtZocpUGFcw) acima, você já assiste o vídeo, com as edições.
+🎞 Clicando [aqui](https://youtu.be/UtZocpUGFcw) ou na imagem do [DevPah](https://youtu.be/UtZocpUGFcw) acima, você já assiste o vídeo, com as edições.
 <br>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
