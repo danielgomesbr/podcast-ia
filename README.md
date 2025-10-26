@@ -27,7 +27,7 @@
 
 ## 📚 Prompts para realização desse projeto.
 - [🎙️ Para gwrar o roteito no ChatGpt](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
-- [📘 Para gwrar a capa feito no GEMINI e capa gerada no IDEOGRAM](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/chatgpt.md)
+- [📘 Para gwrar a capa feito no GEMINI e capa gerada no IDEOGRAM](https://github.com/danielgomesbr/podcast-ia/blob/main/prompts/gemini-ideogram.md)
 
 ## 🛠️ Quer ouvir ou ver o DevPah? Calma, vou te ajudar.
 
