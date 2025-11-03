@@ -20,7 +20,7 @@
 - [GIMP](https://www.gimp.org/downloads/)
 <br>
 
-## ✨ Como foi feito ?
+## ✨ Como foi feito?
 - Roteiro gerado via ChatGpt.
 - Áudio para download, gerado no ELEVENLABS.
 - Prompt para gerar capa, criado no GEMINI via buscador Google.
